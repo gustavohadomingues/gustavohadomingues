@@ -119,13 +119,4 @@ Me chamo Gustavo Henrique Alves Domingues, tenho 19 anos e sou natural de São P
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=gustavohadomingues&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
 />
 
----
-
-<img 
-    align="left"
-    alt="GitHub Stats" 
-    height="200"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gustavohadomingues&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-/>
-
 </p>
